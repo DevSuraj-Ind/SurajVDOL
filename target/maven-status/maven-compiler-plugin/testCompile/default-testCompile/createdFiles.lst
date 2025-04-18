@@ -1,0 +1,17 @@
+pageFactory\HomePage.class
+pageFactory\ReportsPage.class
+pojos\AuthPayloadPojo.class
+utilities\FrameworkConfig.class
+pojos\AddResponse.class
+pojos\AddPayload.class
+pojos\AuthResponse.class
+stepDefinitions\Hooks.class
+utilities\Utils.class
+pageFactory\SubscriptionAccountPage.class
+stepDefinitions\APISteps.class
+stepDefinitions\UISteps.class
+TestRunner\TestRunner.class
+pageFactory\DevicePoolManagementPage.class
+utilities\TestDataBuild.class
+pageFactory\StatusOverviewPage.class
+pageFactory\LoginPage.class
